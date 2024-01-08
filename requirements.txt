@@ -8,7 +8,7 @@ joblib
 MarkupSafe
 numpy
 pickle-mixin
-scikit-learn
+scikit-learn == 1.2.2
 scipy
 threadpoolctl
 Werkzeug
