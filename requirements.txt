@@ -12,7 +12,6 @@ scikit-learn
 scipy
 threadpoolctl
 Werkzeug
-re
 tld
 urllib
 pandas
